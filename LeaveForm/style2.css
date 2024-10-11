@@ -1,0 +1,16 @@
+body{
+    background-color:#e0e0e0;
+}
+form{
+    border:2px solid #4CAF50;
+}
+input[type="text"],textarea,select{
+    border:2px solid #4CAF50;
+}
+button{
+    font-weight:bold;
+}
+footer p{
+    font-size:14px;
+    color:#555;
+}
